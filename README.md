@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @ULeghari
-- 👀 I love programming and am keen to learn more about Artificial Intelligence, Machine Learning, and Deep Learning.
-- 🌱 I’m currently doing my bachelors in Software Engineering at NUST.
-- 📫 My email: uleghari.bese21seecs@seecs.edu.pk
+
